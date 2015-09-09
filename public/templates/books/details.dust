@@ -1,0 +1,23 @@
+{>"layouts/master" /}
+
+{<body}
+	<div class="row">
+		<div class="large-4 columns">
+			<img src="/img/images1.jpg"/>
+		</div>
+		<div class="large-8 columns">
+			<h2>Professional C++</h2>
+			<ul class="bookInfo">
+				<li>Category Node.js</li>
+				<li>Author: John Doe</li>
+				<li>Publisher: Itras</li>
+			</ul>
+			<br>
+			<div class="price"><span>$19.99</span></div>
+			<p>
+			Lorem ipsum dolor sit amet, mauris eu diam quam nunc, neque porttitor ipsum voluptatem accumsan mi, eget quam venenatis erat nulla pharetra. Est adipiscing facilisis dolor, vestibulum odio id animi nunc in. Fringilla donec, tristique feugiat facilisis sagittis pulvinar, leo pharetra amet eu lacinia dapibus, dui magna magna inceptos. Natoque aliquam felis, phasellus molestie, morbi et rhoncus felis unde suscipit. Wisi elit varius, maecenas adipiscing ipsum nonummy faucibus non, gravida mauris mi convallis maecenas quis quidem, velit nunc, vel erat. Consectetuer vel mattis. Velit pulvinar, amet sagittis diam, pellentesque tempor interdum taciti nulla eu, mi a sed rhoncus nascetur, voluptas interdum. Id massa aliquet aliquam amet blandit, pellentesque ultricies nisl potenti quisque vitae pretium. Impedit id amet posuere ridiculus, nulla luctus etiam et nec. Aliquam porttitor massa, mauris amet ante ipsum est. Vel tristique metus ante in dolor vestibulum, in aenean eget cras ridiculus, cum nibh faucibus, neque elementum tellus.
+			</p>
+			<a class="button success">Add To Cart</a>
+		</div>
+	</div>
+{/body}

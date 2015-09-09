@@ -1,0 +1,36 @@
+{>"layouts/master" /}
+
+{<body}
+    <div class="large-3 columns book">
+    	<img src='img/images.jpg'>
+    	<h4>C++ Professional language</h4>
+    	<p>	На відміну від поширеної думки Lorem Ipsum не є випадковим набором літер. Він походить з уривку класичної латинської літератури 45 року до н.е., тобто має більш як 2000-річну історію. Річард Макклінток, професор латини з коледжу Хемпдін-</p>
+    	<div class="price">Buy it for <span>$19.99</span></div>
+    	<br>
+    	<a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+        <div class="large-3 columns book">
+    	<img src='img/images1.jpg'>
+    	<h4>C++ Professional language</h4>
+    	<p>	На відміну від поширеної думки Lorem Ipsum не є випадковим набором літер. Він походить з уривку класичної латинської літератури 45 року до н.е., тобто має більш як 2000-річну історію. Річард Макклінток, професор латини з коледжу Хемпдін-</p>
+    	<div class="price">Buy it for <span>$19.99</span></div>
+    	<br>
+    	<a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+        <div class="large-3 columns book">
+    	<img src='img/images2.jpg'>
+    	<h4>C++ Professional language</h4>
+    	<p>	На відміну від поширеної думки Lorem Ipsum не є випадковим набором літер. Він походить з уривку класичної латинської літератури 45 року до н.е., тобто має більш як 2000-річну історію. Річард Макклінток, професор латини з коледжу Хемпдін-</p>
+    	<div class="price">Buy it for <span>$19.99</span></div>
+    	<br>
+    	<a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+        <div class="large-3 columns book">
+    	<img src='img/images3.jpg'>
+    	<h4>C++ Professional language</h4>
+    	<p>	На відміну від поширеної думки Lorem Ipsum не є випадковим набором літер. Він походить з уривку класичної латинської літератури 45 року до н.е., тобто має більш як 2000-річну історію. Річард Макклінток, професор латини з коледжу Хемпдін-</p>
+    	<div class="price">Buy it for <span>$19.99</span></div>
+    	<br>
+    	<a href="/books/details/1" class="button small">Book Details</a>
+    </div>
+{/body}
