@@ -1,4 +1,4 @@
 TekBooks
 ===========
 
-simple shopping car
+simple shopping cart
